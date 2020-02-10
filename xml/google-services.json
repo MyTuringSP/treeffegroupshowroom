@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055469849868",
+    "firebase_url": "https://myturing-239110.firebaseio.com",
+    "project_id": "myturing-239110",
+    "storage_bucket": "myturing-239110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055469849868:android:a4775b71d14be86e",
+        "android_client_info": {
+          "package_name": "it.myturing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055469849868-45sg8no97ut1ipb6b93202781i7a20g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-IHUms2SmuFwvmz3479kI66hQZjmkTHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055469849868-45sg8no97ut1ipb6b93202781i7a20g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
